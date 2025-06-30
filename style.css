@@ -440,7 +440,8 @@ span.star {
 	height: 1.25rem;
 	width: 100%;
 	left: 0;
-	background: url('./src/img/rip.svg') bottom;
+	background: url(https://raw.githubusercontent.com/jbarcossc/gralu-studios/7342e025d96e3ae665cce03af51d1037a20869bc/src/img/rip.svg)
+		bottom;
 	background-size: 200%;
 }
 
@@ -707,7 +708,7 @@ span.star {
 	width: 20rem;
 	background-color: transparent;
 	border: none;
-	background-image: url('./src/img/highlight.svg');
+	background-image: url(https://raw.githubusercontent.com/jbarcossc/gralu-studios/7342e025d96e3ae665cce03af51d1037a20869bc/src/img/highlight.svg);
 	background-position: 50% 50%;
 	padding-left: 20px;
 	padding-right: 20px;
