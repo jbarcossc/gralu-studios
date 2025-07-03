@@ -58,8 +58,8 @@ html {
 }
 
 body {
-	background-image: url(./src/img/bg.jpg);
-	background-size: 50%;
+	background-image: url(./src/img/bg.webp);
+	background-size: 25%;
 	background-repeat: repeat;
 	width: 100%;
 	overflow-x: clip;
